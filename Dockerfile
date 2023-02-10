@@ -1,4 +1,4 @@
-from python:3.9-alpine3.13
+FROM python:3.9-alpine3.13
 LABEL maintainer="subhaprada chand"
 
 ENV PYTHONUNBUFFERED 1
